@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Hello Playcrab & 第一个项目设计经过
-date: 2017-04-28 14:35:00
+date: 2017-04-28 16:00:00
 tags: 
 ---
 
